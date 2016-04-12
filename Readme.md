@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Artiom Gurnov](https://up.htmlacademy.ru/htmlcss/13/user/189029).
-* Наставник: [Евгений Старшинов](https://htmlacademy.ru/profile/id100874).
+* Наставник: [ Руководитель Евгений Старшинов](https://htmlacademy.ru/profile/id100874).
 
 ---
 
